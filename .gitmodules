@@ -1,0 +1,3 @@
+[submodule "async-popup"]
+	path = async-popup
+	url = https://github.com/aegir12/async-popup
