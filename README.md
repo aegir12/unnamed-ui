@@ -2,7 +2,7 @@
 We will use Git submodules to combine several separate components into one.
 
 # module
-https://github.com/aegir12/async-popup
+git submodule add https://github.com/aegir12/async-popup
 
 ## Install
 
